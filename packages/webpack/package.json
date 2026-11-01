@@ -30,7 +30,7 @@
     "optimize-css-assets-webpack-plugin": "^5.0.4",
     "pify": "^5.0.0",
     "pnp-webpack-plugin": "^1.6.4",
-    "postcss": "^7.0.32",
+    "postcss": "^8.5.23",
     "postcss-import": "^12.0.1",
     "postcss-import-resolver": "^2.0.0",
     "postcss-loader": "^3.0.0",
@@ -50,7 +50,7 @@
     "watchpack": "^2.1.1",
     "webpack": "^4.46.0",
     "webpack-bundle-analyzer": "^4.4.1",
-    "webpack-dev-middleware": "^4.1.0",
+    "webpack-dev-middleware": "^7.4.5",
     "webpack-hot-middleware": "^2.25.0",
     "webpack-node-externals": "^2.5.2",
     "webpackbar": "^4.0.0"
